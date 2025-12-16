@@ -86,13 +86,13 @@ collabboard/
 SCREENSHOTS
 
 Dashboard
-![Dashboard](screenshots/dashboard.PNG)
+![Dashboard](screenshots/dashboard.png)
 
  Add Task 
- ![Add Task](screenshots/add-task.PNG)
+ ![Add Task](screenshots/Add-task.PNG)
 
  Dark Mode
 ![Dark Mode](screenshots/dark-mode.PNG)
 
 Completed Tasks
-![Completed Tasks](screenshots/completed.PNG)
+![Completed Tasks](screenshots/Completed.PNG)
